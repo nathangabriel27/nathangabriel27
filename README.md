@@ -2,7 +2,7 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/nathangabriel27/"><i>Nathan Gabriel</i></a> 😃️</h1>
   <p align="center">Sou formado em Analise e Desenvolvimento de Sistemas, e compartilho meu aprendizado e minha evolução aqui no meu perfil do GitHub.
    
-
+</div>
 
 <div align="center">
   
